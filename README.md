@@ -1,0 +1,2 @@
+# EZnft
+A frontend I'm working on for the HASHLIPS engine. This engine is really helpful for automatically generating NFTs, but it's very hard to work with if your not an experienced programmer. So I'm working on this frontend, which will provide an easier to use interface for artists to generate their NFT's and keep their projects organized (may support uploading to opensea and other stores later)
